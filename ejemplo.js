@@ -1,3 +1,4 @@
+//este comentario es solo para probar las ramas
 var numero = Math.random();
 
 var str = " MAYOR que 0,5";
